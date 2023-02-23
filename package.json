@@ -1,0 +1,11 @@
+{
+  "name": "dbdl",
+  "type": "module",
+  "bin": {
+    "dbdl": "index.js"
+  },
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "dropbox": "^10.34.0"
+  }
+}
